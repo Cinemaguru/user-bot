@@ -40,6 +40,11 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
 
+## Deploy to Railway
+Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
+
+[![Deploy]https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1doN1A4aVI5Z0ptb2QzLUNPSms5WUhoY2tSd3xBQ3Jtc0ttUnB6b3pzN0hKaTZTaV9GNlRtUlhhQ1RPMUVYY0tWVl9DU2c0SXhhVkZpNU9pTl9xRXlrVnV5RjVmeDRickJ0UEtxR3Y5U2pXeUh5WW9MblFVQk14WElNSUE5QlNrQnFRQjdwWWlUNUk5bmdiMkE2VQ&q=https%3A%2F%2Fdeploy.ultroid.tech%2Frailway)](https://deploy.ultroid.tech)
+
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
 - [Easy Method](#local-deploy---easy-method)
