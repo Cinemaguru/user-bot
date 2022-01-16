@@ -40,10 +40,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
 
-## Deploy to Railway
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
-
-[![Deploy]https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1doN1A4aVI5Z0ptb2QzLUNPSms5WUhoY2tSd3xBQ3Jtc0ttUnB6b3pzN0hKaTZTaV9GNlRtUlhhQ1RPMUVYY0tWVl9DU2c0SXhhVkZpNU9pTl9xRXlrVnV5RjVmeDRickJ0UEtxR3Y5U2pXeUh5WW9MblFVQk14WElNSUE5QlNrQnFRQjdwWWlUNUk5bmdiMkE2VQ&q=https%3A%2F%2Fdeploy.ultroid.tech%2Frailway)](https://deploy.ultroid.tech)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fflask&envs=API_ID%2CAPI_HASH%2CSESSION&API_IDDesc=API+ID.+my.telegram.org&API_HASHDesc=API+HASH.+my.telegram.org&SESSIONDesc=String+Session.+Get+it+from+%23stringsession+at+%40UltroidSupport)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
