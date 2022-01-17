@@ -38,7 +38,8 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
+<a href="https://heroku.com/deploy?template=https://github.com/Cinemaguru/user-bot/tree/main">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fflask&envs=API_ID%2CAPI_HASH%2CSESSION&API_IDDesc=API+ID.+my.telegram.org&API_HASHDesc=API+HASH.+my.telegram.org&SESSIONDesc=String+Session.+Get+it+from+%23stringsession+at+%40UltroidSupport)
 
